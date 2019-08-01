@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-* now it's mine 
+* now it's mine 뭥
 # Version Info
 * Python3.6
 * Tensorflow1.10
